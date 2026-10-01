@@ -3,7 +3,7 @@
 ## 🙋‍♀️ Meet Kepler
 Let's make every watt matter.
 
-- [Kepler](https://github.com/sustainable-computing-io/kepler) (Kubernetes-based Efficient Power Level Exporter) is an open-source Prometheus exporter that helps Kubernetes teams understand their workloads' power and energy use. It reads hardware energy data and attributes energy use to containers and pods. This gives teams workload-level visibility to help them make informed efficiency decisions. 
+- [Kepler](https://github.com/sustainable-computing-io/kepler) (Kubernetes-based Efficient Power Level Exporter) is an open source Prometheus exporter that helps Kubernetes teams understand their workloads' power and energy use. It reads hardware energy data and attributes energy use to containers and pods. This gives teams workload-level visibility to help them make informed efficiency decisions. 
 - PEAKS (Power Efficiency Aware Kubernetes Scheduler) uses metrics exported by Kepler to help Kubernetes schedule to improve energy efficiency by placing Pods on optimal nodes.
 - CLEVER (Container Level Energy-efficient VPA Recommender) uses metrics exported by Kepler to recommend Vertical Pod Autoscaler the resource profiles to improve energy efficiency by running workloads.
 
